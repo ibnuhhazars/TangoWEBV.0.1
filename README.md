@@ -12,8 +12,8 @@ Execute test
 
 
 User Amazone & Gmail :
-User : testgojekibnuh@gmail.com
-Password : Passw0rdGojek
+User : 
+Password : 
 
 Note: 
 Test will execute parallel and report will generate in /target/report/cucumber-report/overview-features.html 
